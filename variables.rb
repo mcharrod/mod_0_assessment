@@ -1,6 +1,6 @@
 animal = "leopard"
 is_cuddly = false
-variable = "seal"
+animal = "seal"
 num_8 = 5
 num_3 = 10
 
